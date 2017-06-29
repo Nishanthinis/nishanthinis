@@ -13,7 +13,7 @@ public class Password {
 		
 		m=k/s1.length();
 		}
-		System.out.println((int)m);
+		System.out.println((char)m);
 		
 		
 	}
