@@ -12,8 +12,6 @@ public class WorkingDay {
 			else{
 				System.out.println("true");
 			}
+		   
 		}
 		}
-	
-
-
